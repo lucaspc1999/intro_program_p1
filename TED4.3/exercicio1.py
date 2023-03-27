@@ -1,6 +1,6 @@
 n1 = float(input("Digite um valor numérico: "))
 
 if n1>=0:
-    print("Positivo")
+    print("O número é positivo")
 else:
-    print("Negativo")
+    print("O número é negativo")
